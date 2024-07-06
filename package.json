@@ -1,0 +1,16 @@
+{
+  "name": "aw_7_3_platwright",
+  "version": "1.0.0",
+  "main": "netologyTest.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
